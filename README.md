@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing GitHub.
 
-I am a student at Wake Tech Community College taking classes in Web Development and Java Programming.
+I am a student at Wake Tech Community College taking classes in Web Development and Java Programming in the Spring 2026 semester.
